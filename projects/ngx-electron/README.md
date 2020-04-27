@@ -2,7 +2,7 @@
 
 Angular [electronjs](https://www.electronjs.org/) wrapper service 
 
-[Demo](https://d3v0ps.github.io/ngx-electron)
+[Demo](https://d3v0ps.github.io/ngx-electronjs)
 
 ## Getting Started
 

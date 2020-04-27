@@ -1,12 +1,12 @@
 {
   "name": "ngx-electronjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/d3v0ps/ngx-electron"
+    "url": "https://github.com/d3v0ps/ngx-electronjs"
   },
-  "homepage": "https://d3v0ps.github.io/ngx-electron",
+  "homepage": "https://d3v0ps.github.io/ngx-electronjs",
   "peerDependencies": {
     "@angular/common": "^9.1.3",
     "@angular/core": "^9.1.3",
