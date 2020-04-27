@@ -1,6 +1,6 @@
-# ngx-electron
+# ngx-electronjs
 
-Angular [electron](https://www.electronjs.org/) wrapper service 
+Angular [electronjs](https://www.electronjs.org/) wrapper service 
 
 [Demo](https://d3v0ps.github.io/ngx-electron)
 
@@ -8,12 +8,12 @@ Angular [electron](https://www.electronjs.org/) wrapper service
 
 ### 1. Install packages
 ```sh
-npm i electron ngx-electron
+npm i electron ngx-electronjs
 ```
 
 ### 2. Import Module
 ```typescript
-import { NgxElectronModule } from 'ngx-electron';
+import { NgxElectronModule } from 'ngx-electronjs';
 
 @NgModule({
   declarations: [AppComponent],
@@ -30,7 +30,7 @@ export class AppModule {}
 
 ```ts
 
-import { ElectronService, IpcRendererService } from 'ngx-electron';
+import { ElectronService, IpcRendererService } from 'ngx-electronjs';
 
 export class AppComponent {
 
